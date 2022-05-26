@@ -1,8 +1,8 @@
-##Try out the app at:
+## Try out the app at:
 
-#(https://covid19-tracker-tau-six.vercel.app/)
+# (https://covid19-tracker-tau-six.vercel.app/)
 
-##--------------------------------------------------------
+## --------------------------------------------------------
 
 # Getting Started with Create React App
 
